@@ -1,0 +1,15 @@
+.item-content{
+    padding: 0 48px 48px;
+    background-color: #F8F9FA;
+    text-align: center;
+}
+.item-content button{
+    margin: -24px 0 24px;
+    width: 64px;
+    height: 64px;
+}
+.item-content h2{
+    font-size: 24px;
+    margin-bottom: 8px;
+    font-weight: bold;
+}

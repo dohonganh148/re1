@@ -1,0 +1,24 @@
+.banner{
+    padding: 48px 0;
+}
+.banner-content{
+    background-color: #F8F9FA;
+    padding: 96px;
+    text-align: center;
+}
+.banner-content h1{
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: #212529;
+}
+.banner-content p{
+    color: #212529;
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+.banner-content button{
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: 500;
+}
